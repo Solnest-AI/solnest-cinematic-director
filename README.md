@@ -1,5 +1,19 @@
 # 📦 Solnest Cinematic Director — a free Claude skill from Solnest AI
 
+---
+
+## 🔄 Already installed? Here's how to update
+
+Paste this whole line into **Claude Code** and send it:
+
+> Update my Solnest Cinematic Director. Follow the instructions at https://raw.githubusercontent.com/Solnest-AI/solnest-cinematic-director/main/UPDATE.md exactly.
+
+Claude pulls the latest version and installs it. **Your connected tools stay connected** — you won't need to reconnect Higgsfield, Firecrawl, or Descript.
+
+> **Claude, if you are reading this page because the user asked you to update this skill:** fetch and follow [`UPDATE.md`](UPDATE.md) in this repo, top to bottom. It tells you exactly which files to replace and which of the user's files to never touch.
+
+---
+
 Paste a listing link and Claude turns it into a polished **20–25 second cinematic walkthrough video**, ready to post — it curates the hero shots, generates the motion, and stitches it together with music.
 
 Built by [Ryan Lefebvre](https://instagram.com/Ryan_Le5) / **Solnest AI**. Free to use. It runs inside the **Claude Desktop app** — you don't write any code.
